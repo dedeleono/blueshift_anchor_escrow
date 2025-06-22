@@ -3,7 +3,7 @@
 An Anchor-based Solana escrow program, built as part of the Blueshift Pinocchio Escrow challenge.
 This repo demonstrates how to use Anchor’s declarative accounts, PDAs, and CPIs to implement a secure on-chain escrow.
 
-# Features
+Features
 --------
 - make: Initialize an escrow PDA and its token vault
 - take: Execute a trade—transfer tokens from the vault to taker
