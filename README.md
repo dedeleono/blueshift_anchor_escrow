@@ -11,13 +11,13 @@ Features
 - Clean Anchor patterns: #[derive(Accounts)], #[account(init)], CPI to SPL token program
 - Type-safe IDL: Auto-generated program IDL for client integrations
 
-# Prerequisites
+Prerequisites
 -------------
 - Rust (stable toolchain)
 - Solana CLI (v1.14+)
 - Anchor CLI (v0.27+)
 
-# Repository Layout
+Repository Layout
 ----------------
 .
 ├── Anchor.toml                         # Anchor workspace config
@@ -36,7 +36,7 @@ Features
 ├── package.json                        # Test dependencies
 └── README.md
 
-# Getting Started
+Getting Started
 ---------------
 1. Clone & install
    git clone https://github.com/dedeleono/blueshift_anchor_escrow.git
@@ -56,7 +56,7 @@ Features
 3. Run tests
    anchor test
 
-# Usage
+Usage
 -----
 After deployment, Anchor generates an IDL at target/idl/blueshift_anchor_escrow.json.
 You can interact via:
