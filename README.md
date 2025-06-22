@@ -38,6 +38,8 @@ Repository Layout
 ├── package.json                        # Test dependencies
 └── README.md
 
+```
+
 Getting Started
 ---------------
 1. Clone & install
