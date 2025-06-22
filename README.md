@@ -19,6 +19,8 @@ Prerequisites
 
 Repository Layout
 ----------------
+
+```text
 .
 ├── Anchor.toml                         # Anchor workspace config
 ├── Cargo.toml                          # Anchor-program manifest
